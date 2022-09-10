@@ -1,2 +1,2 @@
 # dz_hse
-This homework hse
+* This homework hse repos.
